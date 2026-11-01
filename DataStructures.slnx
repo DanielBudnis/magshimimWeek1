@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DataStructures/DataStructures.vcxproj" Id="3f47a98b-f36b-405a-8c45-f7a0b0121b66" />
+</Solution>
